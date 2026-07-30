@@ -1,7 +1,7 @@
 
 ## Live Site
 
-[Task Master](https://jersey-geeks.web.app)
+[Jersey Geeks](https://jersey-geeks.web.app)
 
 
 # Project Overview
